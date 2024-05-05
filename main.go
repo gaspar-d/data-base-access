@@ -1,5 +1,6 @@
 package main
 
+// https://go.dev/doc/tutorial/data-access
 import (
 	"database/sql"
 	"fmt"
